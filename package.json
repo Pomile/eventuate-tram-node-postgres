@@ -1,5 +1,5 @@
 {
-  "name": "eventuate-tram-core-nodejs",
+  "name": "eventuate-tram-node-postgres",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eventuate-tram/eventuate-tram-core-node.git"
+    "url": "git+https://github.com/eventuate-tram/eventuate-tram-node-postgres.git"
   },
   "author": "",
   "license": " Apache License, Version 2.0",
   "bugs": {
-    "url": "https://github.com/eventuate-tram/eventuate-tram-core-nodejs/issues"
+    "url": "https://github.com/eventuate-tram/eventuate-tram-node-postgres/issues"
   },
-  "homepage": "https://github.com/eventuate-tram/eventuate-tram-core-node#readme",
+  "homepage": "https://github.com/eventuate-tram/eventuate-tram-node-postgres#readme",
   "dependencies": {
     "getmac": "^1.4.6",
     "invariant": "^2.2.4",
