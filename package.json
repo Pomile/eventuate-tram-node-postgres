@@ -1,6 +1,6 @@
 {
   "name": "eventuate-tram-node-postgres",
-  "version": "0.1.01",
+  "version": "0.1.2",
   "description": "",
   "main": "index.js",
   "scripts": {
